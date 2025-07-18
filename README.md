@@ -4,7 +4,7 @@
 
 ---
 ## 🧠 Who am I?
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU0aGJhcXBmajh5eWdiOWpsb3c0a2ludmlzZ3VsMzN3OGw3eHFxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif" align="left" width="180" style="margin-right: 20px; border-radius: 8px;" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU0aGJhcXBmajh5eWdiOWpsb3c0a2ludmlzZ3VsMzN3OGw3eHFxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif" align="left" width="175" style="margin-right: 20px; border-radius: 8px;" />
 
 <pre style="
   background-color: #1e1e1e; 
