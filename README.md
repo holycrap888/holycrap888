@@ -19,7 +19,7 @@
 ">
   
 $ I'm a passionate Backend Developer  
-$ working in the telecom industry — crafting microservices and scalable systems.  
+$ crafting microservices and scalable systems.  
 
 $ Not into building games 🎮 (though I enjoy playing them),  
 $ but I love building the engines that power  
